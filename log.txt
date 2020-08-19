@@ -1,0 +1,5 @@
+2020/08/19 17:17:09User: unknown interested in product: 7
+2020/08/19 17:17:09User: unknown interested in product: 7
+2020/08/19 17:17:23User: unknown interested in product: 7
+2020/08/19 17:17:32User: unknown interested in product: 8
+2020/08/19 17:18:00 User: unknown interested in product: 8
