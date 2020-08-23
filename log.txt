@@ -1,5 +1,7 @@
-2020/08/19 17:17:09User: unknown interested in product: 7
-2020/08/19 17:17:09User: unknown interested in product: 7
-2020/08/19 17:17:23User: unknown interested in product: 7
-2020/08/19 17:17:32User: unknown interested in product: 8
-2020/08/19 17:18:00 User: unknown interested in product: 8
+2020/08/23 22:11:23 User: 8 interested in product: 8
+2020/08/23 22:11:36 User: 8 interested in product: 8
+2020/08/23 22:14:17 User: 8 interested in product: 8
+2020/08/23 22:14:20 User: 6 interested in product: 6
+2020/08/23 22:14:45 User: 6 interested in product: 6
+2020/08/23 22:18:14 User: 6 interested in product: 6
+2020/08/23 22:18:46 User: 6 interested in product: 6
